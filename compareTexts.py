@@ -7,4 +7,4 @@ def getComparision(refText, userText):
     comp = model.encode([refText, userText])
 
     #let's calculate cosine similarity:
-    return((cosine_similarity([comp[0]], comp[1:])[0][0])*100//1)
+    return((cosine_similarity([comp[0]], comp[1:])[0][0])*100//10)
