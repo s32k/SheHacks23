@@ -1,4 +1,5 @@
-# SheHacks23
+# Retain
+Retain is a learning tool motivated by the protégé effect, targeted towards non-visual learners. With cosine similarity, it checks a student's retention as they recapitulate contents of a chosen file.
 
 ## Inspiration
 Non-visual learners are limited when it comes to online learning resources. Retain provides a platform that allows them to train their retention power, prepare for exams, and get ahead of coursework.
